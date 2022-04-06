@@ -7,6 +7,30 @@
 "bobina":1480,
 "grammatura":54,
 "colori": "Q"
+},
+{
+"confezione":"Brossura",
+"piega":"T6 t5",
+"giriLavoro":63400,
+"bobina":1150,
+"grammatura":39,
+"colori": "Q"
+},
+{
+"confezione":"Brossura",
+"piega":"T6 t5",
+"giriLavoro":79250,
+"bobina":920,
+"grammatura":39,
+"colori": "Q"
+}
+{
+"confezione":"Cartonato",
+"piega":"T6 t6",
+"giriLavoro":74250,
+"bobina":1200,
+"grammatura":60,
+"colori": "Nero+p300C"
 }
 ]
 }
